@@ -1,0 +1,5 @@
+# Ignore REZ build directory
+_rez_build
+
+# Development apps
+.vscode
